@@ -1,10 +1,10 @@
-# JIBC Math — websiteMathShowker
+# Elemental Math — websiteMathShowker
 
 This is a small static prototype created to provide a math-themed website shell with a blue gradient and a 2000s visual vibe.
 
 Files added:
 
-- `index.html` — Home page with JIBC Math title, nav, hero, and image placeholders.
+- `index.html` — Home page with Elemental Math title, nav, hero, and image placeholders.
 - `styles.css` — Site styles (blue gradient, glossy 2000s accents).
 - `videos/index.html` — Placeholder directory page for math videos (linked from nav).
 - `images/placeholder1.svg`, `images/placeholder2.svg` — Simple SVG image placeholders used on the home page.
